@@ -15,3 +15,7 @@ Inspiration from [academind](https://academind.com/learn/react/redux-vs-context-
 
 
 <img width="1439" alt="screenshot 2019-02-24 at 1 07 33 pm" src="https://user-images.githubusercontent.com/13532530/53296444-324f7100-3835-11e9-8bac-e42dc400670f.png">
+
+
+## Check out the demo at 
+https://harshmakadia.github.io/react-context-vs-redux/
