@@ -18,4 +18,4 @@ Inspiration from [academind](https://academind.com/learn/react/redux-vs-context-
 
 
 ## Check out the demo at 
-https://harshmakadia.github.io/react-context-vs-redux/
+https://react-context.netlify.com/
